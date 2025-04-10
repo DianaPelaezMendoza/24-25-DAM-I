@@ -59,3 +59,43 @@ Los **diagramas de clases** representan la estructura de un sistema OO, mostrand
 A partir del diagrama de clases, es posible generar código en diferentes lenguajes, como **Java**, y también generar la documentación del sistema automáticamente.
 
 ---
+
+## **Unidad ED06: Diseño Orientado a Objetos. Diagramas de Comportamiento** 🔄
+
+### 1. Diagramas de Comportamiento 🎬  
+Representan el comportamiento dinámico del sistema, mostrando cómo los objetos interactúan a lo largo del tiempo.
+
+### 2. Diagramas de Casos de Uso 📝  
+Actores: Entidades externas (personas, sistemas, dispositivos) que interactúan con el sistema.  
+Casos de Uso: Describen las tareas que realiza un actor con el sistema para lograr un objetivo.  
+Relaciones:  
+- Interacción o Asociación: Vínculo básico entre actor y caso de uso.  
+- Generalización: Herencia entre actores o casos de uso.  
+- Extensión: Agrega comportamiento opcional a un caso de uso.  
+- Inclusión: Reutiliza comportamientos comunes entre casos de uso.  
+Elaboración: Identificar actores, definir objetivos e interacciones.  
+Escenarios: Describen el flujo detallado de una interacción (principal o alternativa).
+
+### 3. Diagramas de Secuencia ⏳  
+Representan el orden temporal de mensajes entre objetos.  
+- Objetos: Instancias que participan en la interacción.  
+- Línea de Vida: Indica el tiempo durante el cual un objeto existe.  
+- Mensajes: Flechas que muestran la comunicación entre objetos.  
+Elaboración: Identificar objetos y definir el flujo de mensajes.
+
+### 4. Diagramas de Colaboración 🤝  
+Muestran la organización estructural de los objetos y sus mensajes.  
+- Objetos: Nodos que interactúan.  
+- Mensajes: Numerados según el orden de ejecución.  
+Elaboración: Establecer objetos y sus relaciones colaborativas.
+
+### 5. Diagramas de Actividad ⚙️  
+Describen el flujo de trabajo o procesos dentro del sistema.  
+- Elementos: Acciones, decisiones, flujos, inicio y fin.  
+Elaboración: Representar las actividades y sus transiciones lógicas.
+
+### 6. Diagramas de Estados 🔄  
+Modelan los estados de un objeto y cómo cambian ante eventos.  
+- Estados y Eventos: Situaciones y acciones que afectan al objeto.  
+- Transiciones: Cambios entre estados causados por eventos.  
+Elaboración: Identificar estados y definir las transiciones entre ellos.
