@@ -28,7 +28,7 @@ Temas principales:
 
 ---
 
-## **Tema 5: Diseño Orientado a Objetos. Elaboración de Diagramas Estructurales** 🧩
+## **Unidad ED05: Diseño Orientado a Objetos. Elaboración de Diagramas Estructurales** 🧩
 
 ### **1. Introducción a la Orientación a Objetos** 💡
 La **orientación a objetos (OO)** es un paradigma de programación que organiza el software en objetos (instancias de clases). Este enfoque facilita la modelación de entidades del mundo real, promoviendo un diseño modular y más intuitivo.
